@@ -14,6 +14,7 @@
 		BD6654952863AD960058A55A /* AboutMeProjectLily.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD6654932863AD960058A55A /* AboutMeProjectLily.xcdatamodeld */; };
 		BD6654972863AD970058A55A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD6654962863AD970058A55A /* Assets.xcassets */; };
 		BD66549A2863AD970058A55A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD6654982863AD970058A55A /* LaunchScreen.storyboard */; };
+		BD6654A22863B4D80058A55A /* Cocogoose-Classic-Medium-trial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD6654A12863B4D80058A55A /* Cocogoose-Classic-Medium-trial.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD6654962863AD970058A55A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD6654992863AD970058A55A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD66549B2863AD970058A55A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD6654A12863B4D80058A55A /* Cocogoose-Classic-Medium-trial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Cocogoose-Classic-Medium-trial.ttf"; path = "../../Downloads/cocogoose_classic/Cocogoose-Classic-Medium-trial.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		BD66547E2863AD960058A55A = {
 			isa = PBXGroup;
 			children = (
+				BD6654A12863B4D80058A55A /* Cocogoose-Classic-Medium-trial.ttf */,
 				BD6654892863AD960058A55A /* AboutMeProjectLily */,
 				BD6654882863AD960058A55A /* Products */,
 			);
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD66549A2863AD970058A55A /* LaunchScreen.storyboard in Resources */,
+				BD6654A22863B4D80058A55A /* Cocogoose-Classic-Medium-trial.ttf in Resources */,
 				BD6654972863AD970058A55A /* Assets.xcassets in Resources */,
 				BD6654922863AD960058A55A /* Main.storyboard in Resources */,
 			);
